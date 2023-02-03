@@ -1,1 +1,1 @@
-Terceiro txt criado para fixar os comandos do Git na aula da Ocean no dia 03/02/2022
+Criacao do terceiro arquivo na aula da Ocean no dia 03/02
